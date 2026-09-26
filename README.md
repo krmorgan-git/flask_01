@@ -12,7 +12,7 @@ A basic Flask authentication app built with the application factory pattern.
 
 1. Create and activate a virtual environment:
    ```
-   python -m venv .venv
+   python3 -m venv .venv
    source .venv/bin/activate
    ```
 2. Install dependencies:
